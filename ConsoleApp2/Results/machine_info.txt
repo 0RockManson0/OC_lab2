@@ -1,0 +1,2 @@
+PhysicalCores=8
+LogicalProcessors=16
